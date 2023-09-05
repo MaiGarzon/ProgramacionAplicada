@@ -1,4 +1,0 @@
-https://wokwi.com/projects/374305596434550785    #Actividad 1 prender y apagar led
-https://wokwi.com/projects/374519725897282561    #Leer señales analogicas
-https://wokwi.com/projects/374309389463486465    #Actividad, prender y apagar un led con un switch
-https://wokwi.com/projects/374882008702460929    #Flasheo de leds

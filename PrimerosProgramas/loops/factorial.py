@@ -9,5 +9,5 @@ while True:
              fact = fact*i            
         print(f'The factorial of {value} is: ', fact)
     else:
-        print("Please, enter a positive integer number")5
+        print("Please, enter a positive integer number")
         

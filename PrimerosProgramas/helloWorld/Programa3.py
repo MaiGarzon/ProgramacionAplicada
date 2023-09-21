@@ -1,20 +1,17 @@
-# We've defined the variable "meal" here to the name of the food we ate for breakfast!
 # ¡Hemos definido la variable "comida" aquí con el nombre de la comida que desayunamos!
 meal = "An english muffin"
 
-# Printing out breakfast
+# Imprimir el desayuno
 print("Breakfast:")
 print(meal)
 
-# Now update meal to be lunch!
+# ¡Ahora actualiza la comida para que sea el almuerzo!
 meal = "A colombian recipe"
 
-# Printing out lunch
 print("Lunch:")
 print(meal)
 
-# Now update "meal" to be dinner
+# Ahora actualiza "comida" para que sea cena
 
-# Printing out dinner
 print("Dinner:")
 print(meal)

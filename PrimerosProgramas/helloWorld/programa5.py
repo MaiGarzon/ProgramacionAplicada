@@ -8,7 +8,7 @@ print(coffe_price)
 #Prints "4"
 print(number_of_coffes)
 
-#Updating the price/Actualizando el precio
+#Actualizando el precio
 coffee_price = 2.00
 
 # Prints "8.0"

@@ -81,7 +81,7 @@ print("El area del triangulo rectangulo es: ", triangulo_area)
 perimetro_area = triangulo.perimetro()
 print("El perimetro del triangulo rectangulo es: ",perimetro_area)
 
-####PARA UN TRIANGULO ISOCELES####
+####PARA UN TRIANGULO ISOCELES / RECTANGULO####
 
 class Triangulo: 
 

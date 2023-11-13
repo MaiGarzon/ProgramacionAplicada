@@ -1,0 +1,6 @@
+#podemos crear un objeto Numpy ndarray usando la funcion array()
+
+import numpy as np
+arr = np.array([1, 2, 3, 4, 5, 6])
+print(arr)
+print(type(arr))
